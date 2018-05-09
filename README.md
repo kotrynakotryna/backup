@@ -9,7 +9,7 @@ The installation explored the ambiguity of the politics and irony of the freedom
 
 ## Files to download
 
-For the project to work you would need to download video and audio files from [here.](https://www.dropbox.com/home/files_for_the_installation)
+For the project to work you would need to download video and audio files from [here.](https://www.dropbox.com/sh/gcaf4ojrz7hwfjc/AACjClMdGUJJ_zSyAVS5k7YZa?dl=0)
 
 The file contains the following:
 * Two video files that are a part of the installation
