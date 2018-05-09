@@ -9,8 +9,8 @@ The installation explored the ambiguity of the politics and irony of the freedom
 
 ## Structure
 
-The projects contains the following
+The projects contains the following:
 * Two video files that are a part of the installation
 * One audio file that was recorded as a background sound for the piece
 
-
+To run the code it needs ofxOpenCv addon.
